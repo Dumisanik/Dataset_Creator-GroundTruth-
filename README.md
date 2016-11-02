@@ -23,3 +23,10 @@ Step 2: Run "Step2_CropSubRegionsOfRoi.py", to open up the app.
 
 The app will ask you to confirm saving to the xml once you have iterated through all the images.
 You can hold the [Right-Arrow] key to skip through images.
+
+# REquirements and Dependencies
+- Python 2.7
+- OpenCV for Python
+- lxml
+
+
