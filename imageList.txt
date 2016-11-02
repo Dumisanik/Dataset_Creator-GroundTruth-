@@ -1,0 +1,6 @@
+Hand_0.png
+Hand_1.png
+im_0.png
+ju_0.png
+kj.png
+test_11.png
