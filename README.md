@@ -1,0 +1,2 @@
+# Dataset_Creator-GroundTruth-
+This tool is used for enhancing the process of collecting training samples from image datasets. cropping multiple regions.   The tool allows you to use mouse-drag controls to crop ROIs and automatically store their image coordinates to a simple XML file for the validation of Ground Truth information once a statistical a statistical learning method or classifier has been trained.
